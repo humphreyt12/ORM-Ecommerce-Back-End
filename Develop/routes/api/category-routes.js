@@ -8,6 +8,9 @@ router.get('/', (req, res) => {
   // be sure to include its associated Products
   Category.findAll().then((productData) => {
     res.json(productData);
+  })
+  .catch((err) => {
+    res.json(err);
   });
 });
 
