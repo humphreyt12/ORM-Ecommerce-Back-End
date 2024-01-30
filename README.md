@@ -34,7 +34,7 @@ The link of the video of the application will be added soon
 You’ll need to use the [MySQL2](https://www.npmjs.com/package/mysql2) and [Sequelize](https://www.npmjs.com/package/sequelize) packages to connect your Express.js API to a MySQL database and the [dotenv](https://www.npmjs.com/package/dotenv) package to use environment variables to store sensitive data.
 
 ## Usage
-After running the installation commands and npm start or node server.js. Download Insomnia to test the application's GET routes to return all categories, all products, and all tags, return a single category, a single product, and a single tag, and shows the application's POST, PUT, and DELETE routes for categories.
+After running the installation commands and npm start or node server.js. Download Insomnia to test the application's GET routes to return all categories, all products, and all tags, return a single category, a single product, and a single tag, and show the application's POST, PUT, and DELETE routes for categories to successfully create, update, and delete data in my database.
 
 ## License
 This project uses a MIT License
