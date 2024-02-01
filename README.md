@@ -28,7 +28,9 @@ THEN I am able to successfully create, update, and delete data in my database
 ```
 
 ## Video
-The link of the video of the application will be added soon
+Click the link below to view a walkthrough of the application
+
+https://vimeo.com/908476371/ab0e12a45f?share=copy
 
 ## Installation
 You’ll need to use the [MySQL2](https://www.npmjs.com/package/mysql2) and [Sequelize](https://www.npmjs.com/package/sequelize) packages to connect your Express.js API to a MySQL database and the [dotenv](https://www.npmjs.com/package/dotenv) package to use environment variables to store sensitive data.
